@@ -88,7 +88,7 @@ Options:
 **Using HTTPS (SSL)**: `nsdiscover --ssl google.com -w /your/wordlist`
 
 # Showcase
-
+![image](https://user-images.githubusercontent.com/76649588/221003684-016860d9-ba5b-4448-b0fd-44ec7b4d42a9.png)
 # License
 
 This application is distributed under the ***[GPL](https://it.wikipedia.org/wiki/GNU_General_Public_License) license*** you can ***consult the file***: ***[LICENSE.txt](LICENSE.txt)***
