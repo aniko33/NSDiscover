@@ -2,19 +2,19 @@
 
 # Index
 
-- Features
+- [Features](#features)
 
-- Installation
+- [Installation](#Installation)
 
-- Compiling using Nuitka
+- [Compiling using Nuitka](#compiling-using-nuitka)
 
-- Usage
+- [Usage](#usage)
 
-- Showcase
+- [Showcase](#showcase)
 
-- License
+- [License](#license)
 
-- Contributors
+- [Contributors](#contributors)
 
 # Features
 
@@ -95,6 +95,6 @@ This application is distributed under the ***[GPL](https://it.wikipedia.org/wik
 
 # Contributors
 
-<a href="https://github.com/aniko33/Charles-CSEC/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=aniko33/Charles-CSEC"/>
+<a href="https://github.com/aniko33/NSDiscover/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=aniko33/NSDiscover"/>
 </a>
