@@ -10,7 +10,7 @@
 
 - [Features](#features)
 
-- [Installation](#Installation)
+- [Installation](#installation)
 
 - [Compiling using Nuitka](#compiling-using-nuitka)
 
